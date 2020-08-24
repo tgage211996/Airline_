@@ -6,15 +6,6 @@
     
 }
 
-#qoute1 {
-    position: relative;
-    left: 950px;
-    top: 100px;
-    font-size: x-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-
 .welcomeGraphic {
     height: 385px;
     background-image: url("Images/anders-jilden-cYrMQA7a3Wc-unsplash.jpg");

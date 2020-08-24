@@ -33,7 +33,6 @@
         </div>
       </nav>
       <div class= "mainGraphic">
-          <blockquote id="qoute1">“TRAVELING – IT LEAVES YOU SPEECHLESS,<br> THEN TURNS YOU INTO A STORYTELLER.” <br>– IBN BATTUTA</blockquote>
       </div>
       <div class="row" style="padding-left: 150px;">
           <div class="column2">
